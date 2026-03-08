@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Bruno López Abejón
 
-<!--
-**brunolopezabejon/brunolopezabejon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering Student at UNIE | Co-Founder at 360TourX**
 
-Here are some ideas to get you started:
+I bridge the gap between software engineering and business development, focusing on creating tech solutions that deliver real-world value through Virtual Tours & Digital Experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Web Development:** HTML5, CSS3, JavaScript
+- **Version Control & Deployment:** Git, GitHub Pages
+- **Product & Business:** 360º Virtual Tour Creation, Mobile-First Design
+
+### 🌐 Let's connect:
+- 💼 **LinkedIn:** https://www.linkedin.com/in/brunolopezabejon
+- 💻 **Professional Portfolio:** https://brunolopezabejon.github.io/
